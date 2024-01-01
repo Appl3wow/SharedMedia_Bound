@@ -1,0 +1,7 @@
+## Interface: 100200
+## Title: Bound Media Pack
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+Soundpaths.lua 
