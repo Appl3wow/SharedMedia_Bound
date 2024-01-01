@@ -1,4 +1,4 @@
-# Bound Media Pack
+# Bound Media Pack 1.0
 
 World of Warcraft sound pack for the guild Bound-Zul'jin
 
