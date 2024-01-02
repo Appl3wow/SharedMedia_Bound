@@ -21,4 +21,3 @@ LSM:Register("sound", "|cff00ff00Orgim Ahhhh|r", [[Interface\Addons\SharedMedia_
 -- -----
 --   STATUSBAR
 -- -----
-`
